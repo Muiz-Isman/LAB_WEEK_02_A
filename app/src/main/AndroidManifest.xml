@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LAB_WEEK_02_A">
         <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".result"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
