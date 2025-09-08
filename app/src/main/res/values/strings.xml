@@ -7,5 +7,6 @@
     <string name="color_code_result_message">Color code #%s is applied</string>
     <string name="color_code_input_invalid">Color code is invalid</string>
     <string name="submit_button">Submit</string>
+    <string name="back_button">Back Button</string>
     <!--    <string name="screen_margin">-</string>-->
 </resources>
